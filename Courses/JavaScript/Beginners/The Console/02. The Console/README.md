@@ -1,4 +1,3 @@
-Instructions
 With the editor on the right, use ``console.log()`` to output your favorite food! 🍎
 
 Were you able to log the message?
