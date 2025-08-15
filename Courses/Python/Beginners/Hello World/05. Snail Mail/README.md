@@ -2,7 +2,7 @@ Create a blank letter.py program.
 
 In this exercise, you will write a letter to your future self... in Python.
 
-https://www.codedex.io/images/letter.gif
+<img src="https://www.codedex.io/images/letter.gif">
 
 Take a moment and think about what you hope to achieve on this journey.
 
