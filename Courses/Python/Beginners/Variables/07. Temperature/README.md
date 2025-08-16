@@ -5,6 +5,6 @@ Google the current temperature of Brooklyn, NY (where Codédex is based) in °F.
 Use the following formula and write it out in Python:
 ``
 Celsius= (Fahrenheit−32) / 1.8
-​``
+​`` \n
 Print out the converted temperature. 🌡️
 
