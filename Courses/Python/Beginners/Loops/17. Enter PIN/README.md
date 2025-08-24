@@ -19,7 +19,7 @@ Try the following in the terminal on the right 👉:
 - Type 1111 and then the enter key.
 - Type 2023 and then the enter key.
 - Type 1991 and then the enter key.
--
 - Type 1234 and then the enter key.
+  
 Were you able to get access to the ATM?
 
