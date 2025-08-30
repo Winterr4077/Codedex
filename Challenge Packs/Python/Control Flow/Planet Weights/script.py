@@ -19,7 +19,7 @@ elif planet == 7:
   destinationWeight = earth * 1.14
 else:
   destinationWeight = None
-    print('Invalid planet number')
+  print('Invalid planet number')
 
 if destinationWeight is not None:
-    print(f"Your weight on that planet would be {destinationWeight}")
+  print(f"Your weight on that planet would be {destinationWeight}")
