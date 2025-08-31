@@ -4,7 +4,7 @@ DNA is made of the following four pieces:
 - Cytosine (C)
 - Guanine (G)
 - Thymine (T)
-- 
+
 A DNA sequence is made of three-letter combinations of these pieces, such as 'ACG', TCA', and 'CGT'.
 
 Let's use a Python list to find a specific three-letter combination, starting with the following:
