@@ -1,4 +1,4 @@
 -- Write code below 💖
 
-SELECT DISTINCT genre FROM shows;
+SELECT DISTINCT stream FROM shows;
 -- This displays only unique genres from the shows table (no duplicates)
