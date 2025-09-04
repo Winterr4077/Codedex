@@ -17,8 +17,8 @@ Note: You may notice the spelling/grammatical errors in the <span> elements. Thi
 
 Next, inside of a styles.css file, do the following:
 
-1. Select the <h4> heading element and center it with the text-align property.
-2. Select the <span> elements and give them a text-decoration property with the following values:
+1. Select the ``<h4>`` heading element and center it with the text-align property.
+2. Select the ``<span>`` elements and give them a text-decoration property with the following values:
 - A line underneath the text.
 - A wavy style.
 - The color red.
