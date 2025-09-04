@@ -1,0 +1,21 @@
+/* Write code below 💖 */
+
+#invite-wrapper {
+  width: 25%;
+  padding: 25px;
+  background-color: rgb(192, 55, 55);
+  color: #000;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+#invite-text {
+  width: 80%;
+}
+
+#itinerary {
+  text-align: center;
+}
