@@ -97,23 +97,24 @@ Next, let's do the following:
 
 - Select the h1 heading element and add a margin to the top and bottom.
 - Select elements with the nav-item class, add a width of 33%, and style with at least:
--- A display of inline-block.
+A display of inline-block.
 A border with a thickness and color.
 A border-radius of 5px.
 A padding of 5px.
 A margin of 10px.
 Add 20px of margin on top of the main element.
 Add 10px of margin to the top and bottom of the section elements.
-Select #welcome > p, center-align the text, and add 5em of margin to the left and right side of this element.
-Select both the #catalog-input and #form-btn elements, and:
+- Select #welcome > p, center-align the text, and add 5em of margin to the left and right side of this element.
+- Select both the #catalog-input and #form-btn elements, and:
 Center-align the text.
 Add a font-size of 1.25rem and a font-weight of 800.
 Add 8px to the padding property.
 In just the #catalog-input element, add a border that is solid and 2px-thick, as well as a width of 37.5%.
 Center-align the text in the #staff-picks element.
-Select all elements with a class of .staff-pick-img and add the following:
+- Select all elements with a class of .staff-pick-img and add the following:
 A border that is solid and 1px-thick.
 A border-radius of 0 7px 7px 0.
 A width of 10em and a height of 15em.
+
 Save the files and open the index.html file to view the page. Don't forget to screenshot your work and share on Twitter!
 
