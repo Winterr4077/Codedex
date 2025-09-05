@@ -10,7 +10,7 @@ Let's say we're planning a trip to NYC and we want to visit at least one place f
 We can store all of this information in an array!
 
 Copy and paste the following into the editor:
-
+```
 let myDestinations = [
   "🗽 Manhattan - Washington Square Park",
   "🏟️ The Bronx - Yankee Stadium",
@@ -20,6 +20,6 @@ let myDestinations = [
 ];
 
 console.log(myDestinations);
-
+```
 Run the program to see the array appear in the console!
 
