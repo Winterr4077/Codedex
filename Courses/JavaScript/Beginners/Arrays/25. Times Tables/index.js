@@ -1,9 +1,8 @@
 // Write code below 💖
 
-let multiple = 2;
-let numbers = 9;
+const multiple = 2; 
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-for (let i = 0; i <= numbers; i++) {
-  let calculation = i * multiple; 
-  console.log(`${multiple} x ${i} = ${calculation}`);
+for (let i = 0; i < numbers.length; i++) {
+  console.log(`${multiple} x ${numbers[i]} = ${multiple * numbers[i]}`);
 }
