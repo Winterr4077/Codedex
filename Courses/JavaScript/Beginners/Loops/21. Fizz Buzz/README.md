@@ -1,6 +1,6 @@
 [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) is a children's word game that teaches division. It's also a classic technical interview question at countless companies. 🐝
 
-<img>https://i.imgur.com/eVVmz5n.gif</img>
+<img src="https://i.imgur.com/eVVmz5n.gif" />
 
 Though this challenge may appear simple to experienced coders, it is designed to weed out 90% of job candidates who cannot apply their coding knowledge to a new problem creatively. Want to give it a try?
 
